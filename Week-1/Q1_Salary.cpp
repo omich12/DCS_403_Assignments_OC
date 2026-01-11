@@ -1,6 +1,7 @@
 // Write a C++ program that calculates an employee’s total salary based on a base salary and a bonus percentage.
 
 #include <iostream>
+
 using namespace std;
 
 int main()
